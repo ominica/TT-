@@ -1,1 +1,0 @@
-# openshiftv3_Test
